@@ -1,0 +1,24 @@
+{
+    "token": "MTA3NTMyNzU0NDkzNDUzNTIzOQ.GuI971.AGbUUm56SI1RMJp8HdP1PavaTUZm-wZrgYWYQM",
+    "prefix": "!",
+    
+    "playlistLimit": "15",
+    "sponsorblock": true,
+    
+    "spotifyClientId": "",
+    "spotifyClientSecret": "",
+
+    "dblToken": "",
+
+    "lavalinkHost": "",
+    "lavalinkPort": 1111 ,
+    "lavalinkRestUri": "",
+    "lavalinkPassword": "",
+    "lavalinkIdentifier": "BetterMusic",
+    "lavalinkRegion": "us_central",
+
+    "MySQLHost": "",
+    "MySQLLogin": "",
+    "MySQLPasword": "",
+    "MySQLDatabase": ""
+}
