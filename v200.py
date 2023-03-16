@@ -1,3 +1,4 @@
+
 import re
 import traceback
 
@@ -38,4 +39,6 @@ async def on_message(message: discord.Message) -> None:
             pass
 
 
-client.run('MTA3NTMyNzU0NDkzNDUzNTIzOQ.G-7uo0.r2NmbjQyzOl6vWZWN6lIa18-amENjIK93buaIM')
+
+
+client.run('MTA3NTMyNzU0NDkzNDUzNTIzOQ.G1LTQW.qp6ekij3VWIO2imGBNRavaq7VuFJwmCUtIQm5Y')
